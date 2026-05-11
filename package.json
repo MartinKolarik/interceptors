@@ -91,7 +91,7 @@
     "test:browser": "pnpm playwright test -c test/playwright.config.ts",
     "test:nock": "./test/third-party/nock.sh",
     "build": "tsdown",
-    "prepare": "pnpm simple-git-hooks init",
+    "prepare": "tsdown",
     "release": "release publish"
   },
   "files": [
