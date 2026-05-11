@@ -166,6 +166,9 @@
   "resolutions": {
     "memfs": "^3.4.13"
   },
+  "overrides": {
+    "unrun": "0.2.37"
+  },
   "keywords": [
     "request",
     "intercept",
